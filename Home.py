@@ -18,7 +18,7 @@ st.set_page_config(page_title="Interactive Study Planner and Resource Aggregator
 pg_bg_img = f"""
 <style>
 [data-testid="stApp"] {{
-background-image: url("hcttps://t3.ftcdn.net/jpg/05/77/27/02/240_F_577270209_zkEudjWqdnCF3CidEF83gP1KqmTZGy4l.jpg");
+background-image: url("https://i.imgur.com/6NwtL8l.png");
 background-size: cover;
 background-repeat: no-repeat;
 background-attachment: local;
