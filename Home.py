@@ -9,7 +9,7 @@ from streamlit_option_menu import option_menu
 import pyperclip 
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "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"
 
 def progress_bar(progress):
     st.progress(progress)
