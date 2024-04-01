@@ -168,7 +168,7 @@ elif study_option == "Create a study plan":
 
         # Display the study plan in an expander
         with st.expander("Study Plan", expanded=True):
-            st.markdown(expander_css, unsafe_allow_html=True) 
+             
              # Apply custom CSS
             st.write(study_plan)  # Display the study plan text
             
