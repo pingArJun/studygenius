@@ -3,3 +3,4 @@ requests
 streamlit
 streamlit-option-menu
 pyperclip
+langchain
