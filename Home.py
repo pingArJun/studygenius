@@ -12,7 +12,6 @@ from  streamlit_lottie import  st_lottie
 # Set your OpenAI API key
 openai.api_key = "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"
 
-
 def progress_bar(progress):
     st.progress(progress)
 st.set_page_config(page_title="Interactive Study Planner and Resource Aggregator", page_icon="📚", layout="wide")
