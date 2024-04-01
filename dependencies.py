@@ -142,7 +142,7 @@ class Subject(Database):
             st.markdown("###")
             st.markdown("###")
 
-            st.download_button(label="Download >    |" + f":red[{name}]" + "|     < document",
+            st.download_button(label="Download >    |" + f":red[{name}]" + "|     < download",
                                data=bin_data,
                                file_name=f"{name}",
                                mime='application/octet-stream',
