@@ -16,7 +16,7 @@ class Test:
                 
         st.title("🧪Test Zone")
 
-        st.markdown("Smart Study Hub is a tool that helps you to study more efficiently. It generates questions from your study material and answers them for you. This way, you can test your knowledge and learn more effectively.")
+        st.markdown("Study Genius is a tool that helps you to study more efficiently. It generates questions from your study material and answers them for you. This way, you can test your knowledge and learn more effectively.")
 
         prompt_template = """Use the context below to write an answer to the question.:
             Context: {context}
