@@ -17,4 +17,4 @@ To run the app locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/interactive-study-planner.git
+   git clone https://github.com/your-username/interactive-study-planner.git](https://github.com/pingArJun/studygenius.git
