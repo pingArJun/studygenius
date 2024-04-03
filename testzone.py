@@ -33,7 +33,7 @@ class Test:
             st.session_state['questions_to_answers'] = 'empty'
 
         # Hardcoded OpenAI API key
-        openai_api_key = st.secrets[key]
+        openai_api_key = st.secrets.api.key
 
         # Let user upload a file
         uploaded_file = st.file_uploader("Choose a file", type=['pdf'])
