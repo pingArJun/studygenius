@@ -10,7 +10,7 @@ from streamlit_option_menu import option_menu
 from  streamlit_lottie import  st_lottie
 
 # Set your OpenAI API key
-openai.api_key = st.secrets[key]
+openai.api_key = st.secrets.api.key
 
 def progress_bar(progress):
     st.progress(progress)
